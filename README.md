@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kudakwashe Mutizhe</h1>
+<h1 align="center">Hi 👋, I am Behzad Ramezani Gourabi</h1>
 <h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
 
 <div id="header" align="center">
