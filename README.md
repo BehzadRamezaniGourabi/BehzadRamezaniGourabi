@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Behzad Ramezani Gourabi
 
-<!--📚 Enhancing my expertise in web front-end languages and frameworks like HTML, CSS, JavaScript, and WordPress.
+<!--📚 Enhancing my expertise in web front-end languages and frameworks like HTML, CSS, JavaScript, and WordPress.-->
 <div id="header" align="center">
 <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 </div>
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue](https://img.shields.io/badge/LinkedIn-blue?            logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-**
+
 
 Here are some ideas to get you started:
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
