@@ -1,5 +1,6 @@
-Hi there 👋 I am Behzad Ramezani Gourabi</br>
-A Computer Science Co-op Student on the Path of Mastery</br>
+<h1 align="center">Hi 👋, I'm Kudakwashe Mutizhe</h1>
+<h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
+
 <div id="header" align="center">
   <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="30%"/>
 </div>
@@ -11,13 +12,15 @@ A Computer Science Co-op Student on the Path of Mastery</br>
 🎯 Your go-to source for insights on front-end development, project collaboration, and more!</br>
 📧 Feel free to reach out to me at behzadramezani2017@gmail.com. Always open to new connections and opportunities.</br>
 
+<h3 align="left">Connect with me:</h3>
+
 <div id="badges">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
-<br>Languages and Tools:</br>
+<h3 align="left">Languages and Tools:</h3>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,12 +32,14 @@ A Computer Science Co-op Student on the Path of Mastery</br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
 </div>
 
-<b>Progects:</b>
+<h3 align="left">Projects</h3>
+
 1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen". 
 
 
 
-<b>Interests:</b>
+<h3 align="left">Projects</h3>
+
 1. Playing soccer with my friends
 2. Outdoor activities like swimming
 3. Travelling and sightseeng
