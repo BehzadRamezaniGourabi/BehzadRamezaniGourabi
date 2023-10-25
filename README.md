@@ -2,6 +2,10 @@
 
 <!--📚 Enhancing my expertise in web front-end languages and frameworks like HTML, CSS, JavaScript, and WordPress.-->
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 🌐 Familiar with general-purpose languages like Java, C, and Python.</br>
 🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.</br>
 💼 Actively working on collaborative projects. Open to new opportunities and connections.</br>
