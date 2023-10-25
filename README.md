@@ -1,5 +1,5 @@
-###Hi there 👋 I am Behzad Ramezani Gourabi
-###A Computer Science Co-op Student on the Path of Mastery
+###Hi there 👋 I am Behzad Ramezani Gourabi</br>
+A Computer Science Co-op Student on the Path of Mastery
 <div id="header" align="center">
   <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="30%"/>
 </div>
