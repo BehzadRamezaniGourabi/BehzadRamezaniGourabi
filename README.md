@@ -3,7 +3,7 @@
 <!--📚 Enhancing my expertise in web front-end languages and frameworks like HTML, CSS, JavaScript, and WordPress.-->
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="200%"/>
+  <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="120%"/>
 </div>
 
 🌐 Familiar with general-purpose languages like Java, C, and Python.</br>
