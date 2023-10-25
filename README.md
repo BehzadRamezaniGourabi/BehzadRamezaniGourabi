@@ -30,7 +30,7 @@ A Computer Science Co-op Student on the Path of Mastery</br>
 </div>
 
 <b>Progects:</b>
-1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizzad Kitchen". 
+1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen". 
 
 
 
