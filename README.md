@@ -5,7 +5,7 @@ A Computer Science Co-op Student on the Path of Mastery</br>
 </div>
 
 📚 Enhancing my expertise in web front-end languages and frameworks like <b>HTML, CSS, JavaScript, and WordPress</b>.</br>
-🌐 Familiar with general-purpose languages like Java, C, and Python.</br>
+🌐 Familiar with general-purpose languages like <b>Java, C, and Python</b>.</br>
 🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.</br>
 💼 Actively working on collaborative projects. Open to new opportunities and connections.</br>
 🎯 Your go-to source for insights on front-end development, project collaboration, and more!</br>
