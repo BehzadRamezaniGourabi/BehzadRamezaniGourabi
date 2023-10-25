@@ -29,3 +29,12 @@ A Computer Science Co-op Student on the Path of Mastery</br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
 </div>
 
+<b>Progects:</b>
+
+
+
+<b>Interests:</b>
+1. Playing soccer with my friends
+2. Outdoor activities like swimming
+3. Travelling and sightseeng
+
