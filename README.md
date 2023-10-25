@@ -32,7 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
 </div>
 
-<h3 align="left">Projects</h3>
+<h3 align="left"><b>Projects</b></h3>
 
 1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen". 
 
