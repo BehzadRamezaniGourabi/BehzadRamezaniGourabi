@@ -12,11 +12,11 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-🌐 Familiar with general-purpose languages like Java, C, and Python.
-🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.
-💼 Actively working on collaborative projects. Open to new opportunities and connections.
-🎯 Your go-to source for insights on front-end development, project collaboration, and more!
-📧 Feel free to reach out to me at kmutizhe2001@gmail.com. Always open to new connections and opportunities.
+🌐 Familiar with general-purpose languages like Java, C, and Python.</br>
+🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.</br>
+💼 Actively working on collaborative projects. Open to new opportunities and connections.</br>
+🎯 Your go-to source for insights on front-end development, project collaboration, and more!</br>
+📧 Feel free to reach out to me at kmutizhe2001@gmail.com. Always open to new connections and opportunities.</br>
 <div id="badges">
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-blue  logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
