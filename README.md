@@ -6,7 +6,7 @@
 🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.</br>
 💼 Actively working on collaborative projects. Open to new opportunities and connections.</br>
 🎯 Your go-to source for insights on front-end development, project collaboration, and more!</br>
-📧 Feel free to reach out to me at kmutizhe2001@gmail.com. Always open to new connections and opportunities.</br>
+📧 Feel free to reach out to me at behzadramezani2017@gmail.com. Always open to new connections and opportunities.</br>
 
 <div id="badges">
   <a href="https://www.linkedin.com/feed/">
