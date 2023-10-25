@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Science Co-op Student on the Path of Mastery</h3>
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216" width="30%"/>
+  <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="30%"/>
 </div>
 
 📚 Enhancing my expertise in web front-end languages and frameworks like <b>HTML, CSS, JavaScript, and WordPress</b>.</br>
