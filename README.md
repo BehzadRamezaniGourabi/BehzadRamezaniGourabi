@@ -38,7 +38,7 @@
 2. School Project (AGILE): View on GitHub. A project using Python to create a "Quiz Application" to make a test with multiple choice questions in limited time.
 
 
-<h3 align="left">Projects</h3>
+<h3 align="left">Interests:</h3>
 
 1. Playing soccer with my friends
 2. Outdoor activities like swimming
