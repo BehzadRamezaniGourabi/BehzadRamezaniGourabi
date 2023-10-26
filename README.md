@@ -34,8 +34,8 @@
 
 <h3 align="left"><b>Projects</b></h3>
 
-1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen". 
-
+1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen".
+2. School Project (AGILE): View on GitHub. A project using Python to create a "Quiz Application" to make a test with multiple choice questions in limited time.
 
 
 <h3 align="left">Projects</h3>
