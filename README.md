@@ -40,7 +40,7 @@
 
 <h3 align="left">Interests:</h3>
 
-1. Playing soccer with my friends
-2. Outdoor activities like swimming
-3. Travelling and sightseeng
+1. Playing video games
+2. playing with small programes
+3. coding and achiving new knowledge
 
