@@ -37,6 +37,9 @@
 
 1. School Project (AGILE): View on GitHub. A project using HTML, CSS, and JavaScript to create a local business website which is "Pizza Kitchen".
 2. School Project (AGILE): View on GitHub. A project using Python to create a "Quiz Application" to make a test with multiple choice questions in limited time.
+3. School Project (AGILE): View on GitHub. Univolve project using Android studio and Flutter to cerate a application for TRU to solve problems of students.
+   Five people worked on this project that I was member of this project. This 
+   project invited to showcase on TRU.
 
 
 <h3 align="left">Interests:</h3>
