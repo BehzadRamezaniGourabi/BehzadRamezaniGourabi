@@ -5,7 +5,7 @@
   <img src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif" width="30%"/>
 </div>
 
-📚 Enhancing my expertise in web front-end languages and frameworks like <b>HTML, CSS, JavaScript, and WordPress</b>.</br>
+📚 Enhancing my expertise in web front-end languages and frameworks like <b>HTML, CSS, JavaScript, PHP and WordPress</b>.</br>
 🌐 Familiar with general-purpose languages like <b>Java, C, JavaScript, PHP, and Python</b>.</br>
 🚀 Knowledge of coding strategies, software architecture, and the Agile methodology.</br>
 💼 Actively working on collaborative projects. Open to new opportunities and connections.</br>
